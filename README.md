@@ -32,9 +32,11 @@ Após clonar e abrir na sua ide de preferência, siga os passos abaixo:
 2. cd /whoami
 3. npm install
 4. npm intall react-router-dom -D
+5. npm install styled-components -D
+6. npm install @types/styled-components -D
 ````
 
-#Para rodar o servidor
+## Para rodar o servidor
 
 ````
 1. certifique-se de estar dentro da pasta principal "cd /whoami"
