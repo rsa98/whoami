@@ -22,17 +22,21 @@ Vamos dar algumas instruções para você poder rodar este arquivo no seu local 
 
 Comece clonando o nosso arquivo no Github.
 
-```
-1. git clone https://github.com/rsa98/whoami
-
-```
+> git clone https://github.com/rsa98/whoami
 
 Após clonar e abrir na sua ide de preferência, siga os passos abaixo:
 
-```
+>  cd /whoami
+>  npm install
+>  npm intall react-router-dom -D
 
-2. cd /whoami
-3. npm install
-4. npm intall react-router-dom -D
+#Para rodar o servidor
 
+> certifique-se de estar dentro da pasta principal "cd /whoami"
+> npm run dev
+
+
+
+````
+exemplo
 ```
